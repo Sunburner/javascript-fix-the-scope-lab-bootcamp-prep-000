@@ -32,5 +32,3 @@ function theFunk() {
      return function()
    }
   var theFunk = function()
-
-
